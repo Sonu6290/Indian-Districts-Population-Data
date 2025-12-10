@@ -152,4 +152,4 @@ Credentials stored securely via data gateway
 This population analytics dashboard provides a clean and interactive visual exploration of India’s demographic distribution. The combination of MySQL backend storage and Power BI visualization makes it scalable, dynamic, and ideal for BI reporting.
 
 
-Show what the dashboard looks like.---  ![Dashboard Preview]()
+Show what the dashboard looks like.---  ![Dashboard Preview](https://github.com/Sonu6290/Indian-Districts-Population-Data/blob/main/Screenshot%202025-12-10%20131247.png)
